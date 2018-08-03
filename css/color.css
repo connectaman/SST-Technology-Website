@@ -1,0 +1,14 @@
+.logo-row, #banner .caption a.btn-more, .head-social ul li a:hover, .welcome-icon-row a, .text-box a.btn-more:hover, .home-about-section .thumb:before, .home-about-section .thumb:after, .welcome-section .welcome-box b.icon-1, .welcome-section .welcome-box b.icon-2, .welcome-section .welcome-box b.icon-3, .welcome-section .welcome-box b.icon-4, .welcome-section .welcome-box b.icon-5, .welcome-section .welcome-box b.icon-6, .welcome-section .welcome-box:before, .welcome-section .welcome-box b:before, .event-section a.btn-more, .portfolio-box .frame .caption:before, .portfolio-box .frame .caption:after, .footer-social ul li a:hover, .footer-section-2 form input[type="submit"], .pagination-box .pagination > li > a:hover, .pagination-box .pagination > li > span:hover, .pagination-box .pagination > li > a:focus, .pagination-box .pagination > li > span:focus, .pagination-box .pagination li.active a, .portfolio-section a.btn-more, .equipment-box .text-box a.btn-video, .video-section a.btn-more, .contact-section .holder form input[type="submit"], .contact-box, .blog-section .post-box .frame strong.date, .blog-page .post-box .text-box h4:before, .comment-box form input[type="submit"], .newsletter-widget form input[type="submit"], .share-row ul li a:hover{
+	background-color:#fc6432;
+}
+
+.heading-center span, .heading-left span, .text-box a.btn-more , .welcome-section .welcome-box a.btn-more, .event-section .event-box .text-box span.loaction .fa, .blog-section .post-box .detail-row ul li a, .blog-section .post-box .detail-row ul>li+li:before, .blog-section .post-box a.btn-more, .links-widget ul li a .fa, .footer-menu ul li a:hover, .search-widget form button, .recent-widget ul li .text-col span.date .fa, .archives-widget ul li a .fa, .blog-detail .detail-row ul li a, .blog-detail .detail-row ul>li+li:before, .social-share2 ul li a:hover, #comments .text span.date, a.comment-reply-link, .event-detail-row ul li .fa, .event-section .event-box:hover .text-box h3 a, .post-box:hover .text-box h3 a, .post-box:hover .text-box h4 a, .footer-box .recent-widget ul li:hover .text-col h6 a, .recent-widget ul li:hover .text-col a, .archives-widget ul li:hover a, .equipment-box:hover .text-box h3 a{
+	color:#fc6432;
+}
+
+.text-box a.btn-more, .blog-page .post-box .text-box, .testimonial-box .thumb, .blog-detail blockquote{
+	border-color:#fc6432;
+}
+.testimonial-box:before{
+	border-color: #fc6432 transparent transparent transparent;
+}
